@@ -1,5 +1,8 @@
 ## Diagrama-UML
 
+### Diagrama
+(Diagrama.png)
+
 ### 1. Propósito del Sistema
 El sistema está diseñado para gestionar un inventario de productos, permitiendo agregar, buscar, actualizar y eliminar productos, además de calcular valores totales y generar reportes.
 ### 2. Explicación de las Clases
